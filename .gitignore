@@ -1,8 +1,0 @@
-/.git
-.git/
-
-# Atom-editor plugin-config to load code on server (may content passwords)
-.remote-sync.json
-/.remote-sync.json
-
-.editorconfig
