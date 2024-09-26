@@ -1,7 +1,7 @@
-URLs Purifier
+Linkumori(URLs Purifier)
 Note: This project is currently under construction and is a fork of UTM Eraser(Eraser).
 
-*URLs Purifier is a browser extension that cleans tracking query parameters from URLs using declarative net requests. It aims to enhance user privacy by removing common tracking parameters from web addresses.
+*Linkumori(URLs Purifier) is a browser extension that cleans tracking query parameters from URLs using declarative net requests. It aims to enhance user privacy by removing common tracking parameters from web addresses.
 Features[upcoming]
 
 Removes a wide range of tracking parameters from URLs[upcoming]
