@@ -1,4 +1,4 @@
-Linkumori(URLs Purifier)
+Linkumori(URLs Purifier) To be released on 20 october 2024 
 Note: This project is currently under construction and is a fork of UTM Eraser(Eraser).
 
 *Linkumori(URLs Purifier) is a browser extension that cleans tracking query parameters from URLs using declarative net requests. It aims to enhance user privacy by removing common tracking parameters from web addresses.
