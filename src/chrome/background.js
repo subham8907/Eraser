@@ -1,6 +1,4 @@
 "use strict";
-import { readUTMeraserSettings, resetSettings } from './common/utils.js';
-import { defaultSettings, SETTINGS_KEY, CANT_FIND_SETTINGS_MSG } from './common/constants.js';
 
 // Local settings are used to not make an asynchronous request to the store
 let cachedSettings = { ...defaultSettings };
@@ -113,3 +111,6 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 			break;
 	}
 });
+import { readUTMeraserSettings, resetSettings } from './common/utils.js';
+import { defaultSettings, SETTINGS_KEY, CANT_FIND_SETTINGS_MSG } from './common/constants.js';
+
